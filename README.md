@@ -39,6 +39,6 @@ Esto iniciará la API en http://localhost:3000.
 
 Rutas disponibles
 Método	/ Ruta	/ Descripción:
-GET	/frases	/ Devuelve todas las frases
-POST	/frases	/ Agrega una nueva frase
-DELETE	/frases/:id /	Elimina una frase por su ID
+GET	/frases	/ Devuelve todas las frases. <br>
+POST	/frases	/ Agrega una nueva frase. <br>
+DELETE	/frases/:id /	Elimina una frase por su ID. 

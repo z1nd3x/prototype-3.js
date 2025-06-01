@@ -38,7 +38,7 @@ node index.js
 Esto iniciará la API en http://localhost:3000.
 
 Rutas disponibles
-Método	/ Ruta	/ Descripción:
+Método	/ Ruta	/ Descripción: <br>
 GET	/frases	/ Devuelve todas las frases. <br>
 POST	/frases	/ Agrega una nueva frase. <br>
 DELETE	/frases/:id /	Elimina una frase por su ID. 
